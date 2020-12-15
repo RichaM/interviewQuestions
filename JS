@@ -1,0 +1,3 @@
+what is Non blocking IO . why Javacsriot is called having non blocking io?
+what are JS IO operations ?
+Ans - HTTP req and response , broswer storage read write
